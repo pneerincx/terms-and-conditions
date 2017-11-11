@@ -1,0 +1,24 @@
+BBMRI-NL user Code of Conduct.
+
+The following is the Code of Conduct that users agree to abide by as an Approved User of the BBMRI-NL Collaborative Organization (CO).
+Failure to abide by any term within this Code of Conduct results in revocation of approved access to all datasets obtained through BBMRI-NL.
+
+BBMRI-NL projects work with sensitive data that is provided by contributing biobanks.
+This data is property of the contributing biobanks, and shall not be used for any analyses unless explicit permission has been granted by BBMRI to perform predefined analyses.
+Specifically, users will work according to the following rules:
+
+01. User will use requested datasets solely in connection with the research project described in the approved Data Access Request for each dataset.
+02. User's permission to access BBMRI-NL data is strictly personal and cannot be transferred under any circumstance.
+03. User will perform all analyses solely on the infra structure explicitly approved by BBMRI-NL ensuring data security.
+04. User will ensure that all data used/generated are solely accessible by the himself/herself and other members of the BBMRI-NL CO.
+05. User will refrain from downloading data to any other system not approved by BBMRI-NL.
+06. User is aware that all activities with regards to viewing and downloading data will be monitored at the level of individual user.
+07. User will make no attempt to identify or contact individual participants from whom these data were collected.
+08. User will not distribute BBMRI-NL data to any entity or individual.
+09. User will adhere to computer security practices that ensure that only authorized individuals can gain access to data files.
+10. User will not submit for publication or any other form of public dissemination analyses or other reports on work using or referencing datasets prior to written permission by BBMRI-NL.
+11. User acknowledges BBMRI-NL in any publication.
+12. Investigator will report any inadvertent data release, breach of data security, or other data management incidents contrary to the terms of data access to info@bbmri.nl
+
+I read and understand the Code of Conduct. 
+I declare that I will act accordingly. 
